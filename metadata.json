@@ -1,0 +1,5 @@
+{
+  "name": "CulturaLog",
+  "description": "A personal application to log and manage cultural activities such as movies, books, exhibitions, and performances. It features TMDB API integration for movies and manual entry for other categories, storing all data locally in the browser.",
+  "requestFramePermissions": []
+}
